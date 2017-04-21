@@ -1,0 +1,16 @@
+* * * * * root /opt/cloudwatch/aws-scripts-mon/DiskSpaceUtilization.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/DiskSpaceAvailable.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/MemoryUtilization.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/SwapUsage.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/ApplicationProcessCount.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/NginxProcessCount.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/SQSDaemonProcessCount.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/TDAgentProcessCount.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/TDAgentQuelength.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/TDAgentQuesize.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/TDAgentRetry.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/ActiveConnection.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/PassiveConnection.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/FailedConnection.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/ConnectionResets.sh
+* * * * * root /opt/cloudwatch/aws-scripts-mon/ConnectionEstablished.sh
